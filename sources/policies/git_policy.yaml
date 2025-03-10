@@ -1,0 +1,18 @@
+title: GitFlow policy
+description: This policy describes the GitFlow branching strategy.
+id: PO001
+version: 1.0
+publishDate: "2025-03-08"
+author:
+  name: Gabriel Santichio
+  job: Software Engineer
+documentObjective: 
+  introduction: This policy describes the GitFlow branching strategy.
+  objectiveA: Have structured release management
+  objectiveB: Have a clear branching strategy
+  objectiveC: Enhanced Collaboration and Organization
+  objectiveD: Improved code quality
+  objectiveE: Improved code review process
+applicationScope: This policy apply to all employess in the company, inclusive developer and any one with access to our repositories.
+guidelines: |
+  

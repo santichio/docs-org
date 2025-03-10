@@ -1,0 +1,87 @@
+policyTitle: Policy Metadata Template
+policyDescription: This policy is a template for creating new policies. It includes all the metadata fields that are required for a policy.
+logoUrl: "https://example.com/logo.png"
+imageUrl: "https://example.com/image.png"
+version: "1.0"
+status: "Draft"
+createdAt: "2021-01-01"
+metadata:
+  owner: 
+    domain: "CTO"
+    department: "Software Engineering Department"
+    team: "Development"
+  initialAuthor: 
+    name: "John Doe"
+    jobTitle: "Engineer"
+    email: "john@doe.com"
+    reportsTo: "Software Engineering Department"
+  tags: 
+    - "security"
+    - "compliance"
+    - "audit"
+  references: 
+    - title: "CIS Benchmark"
+      url: "https://www.cisecurity.org/benchmark/"
+      id: "uuid-1234"
+    - title: "NIST SP 800-53"
+      url: "https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final"
+      id: "uuid-5678"
+  notes: "This policy is a template for creating new policies. It includes all the metadata fields that are required for a policy."
+reviewHistory:
+  - date: "2021-01-01"
+    author: 
+      name: "John Doe"
+      jobTitle: "Engineer"
+      email: "john@doe.com"
+      reportsTo: "Software Engineering Department"
+    reviewer:
+      name: "John Doe"
+      jobTitle: "Engineer"
+      email: "john@doe.com"
+      reportsTo: "Software Engineering Department"
+    aprover:
+      name: "John Doe"
+      jobTitle: "Engineer"
+      email: "john@doe.com"
+      reportsTo: "Software Engineering Department"
+    changes: "Initial draft"
+    changeWordCount: 1000
+    version: "0.0"
+  - date: "2021-01-02"
+    author: 
+      name: "John Doe"
+      jobTitle: "Engineer"
+      email: "john@doe.com"
+      reportsTo: "Software Engineering Department"
+    reviewer:
+      name: "John Doe"
+      jobTitle: "Engineer"
+      email: "john@doe.com"
+      reportsTo: "Software Engineering Department"
+    aprover:
+      name: "John Doe"
+      jobTitle: "Engineer"
+      email: "john@doe.com"
+      reportsTo: "Software Engineering Department"
+    changes: "Published"
+    changeWordCount: 50
+    version: "1.0"
+  - date: "2021-01-03"
+    author: 
+      name: "John Doe"
+      jobTitle: "Engineer"
+      email: "john@doe.com"
+      reportsTo: "Software Engineering Department"
+    reviewer:
+      name: "John Doe"
+      jobTitle: "Engineer"
+      email: "john@doe.com"
+      reportsTo: "Software Engineering Department"
+    aprover:
+      name: "John Doe"
+      jobTitle: "Engineer"
+      email: "john@doe.com"
+      reportsTo: "Software Engineering Department"
+    changes: "Update scope"
+    changeWordCount: 300
+    version: "1.1"
