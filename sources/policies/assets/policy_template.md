@@ -33,7 +33,7 @@ c. <!-- Some policy's objective -->
 ## 3. References
 
 <!-- 
-    In this section describe which words/acronyms need to be defined for better comprehension of this document, in this document context.
+    In this section link some documents that this document refers.
 -->
 
 - [Document A](#);
@@ -49,6 +49,10 @@ c. <!-- Some policy's objective -->
 
 <!-- Make a intro to definitions here, like: "Here we have some definitions to some words/acronyms in this document context, to have a better comprehension and understand the real meening the author pretended to pass:". Make it professional and clear -->
 
+<!--
+    e.g. of a definition:
+    - `word`: describe definition here;
+-->
 
 ## 5. Guidelines
 
